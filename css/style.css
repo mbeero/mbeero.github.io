@@ -1,7 +1,7 @@
 body {
-	background-color: #474747;
-	color: #ffffff;
-	font-family: sans-serif;
+	background-color: #FFFFFF;
+	color: #000000;
+	font-family: helvetica, sans-serif;
 }
 
 h1 {
@@ -18,12 +18,20 @@ h4 {
 
 a {
 	color:#38E0D8;
+	text-decoration: none;
 }
 
 a:hover {
-	color: #DB3BED;
+	color: #827D7C;
 }
 
 a:visited {
-	color: #0A91F2;
+	color: #444444;
+}
+
+.gif {
+	
+	display:block;
+	margin: 0 auto;
+
 }
