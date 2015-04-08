@@ -5,7 +5,13 @@ body {
 }
 
 h1 {
-	text-align: center;
+    background-image: url("http://mbeero.github.io/images/mbeero.gif");
+	background-repeat: no-repeat;
+  width: 400px;
+  height: 133px;
+  text-indent: 100%;
+  white-space: nowrap;
+  overflow: hidden;
 }
 
 ul {
@@ -37,4 +43,8 @@ a:visited {
 }
 #slogan {
 
+}
+
+#pictures {
+	
 }
