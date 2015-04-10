@@ -1,3 +1,26 @@
+@import url(http://fonts.googleapis.com/css?family=Slabo+27px);
+
+/* .column {
+  width: 200px;
+  background-color: #ccc;
+  height: 400px;
+  float: left;
+}
+
+.square {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+}
+
+.small-square {
+  width: 100px; 
+  height: 100px; 
+  background-color: blue;
+  float: left;
+}
+
+*/
 body {
 	background-color: #FFFFFF;
 	color: #000000;
@@ -14,8 +37,15 @@ h1 {
   overflow: hidden;
 }
 
+h2 {
+
+  line-height: 1.5em;
+
+}
+
 ul {
 	text-align: left;
+  line-height: 1.5em;
 }
 
 h4 {
@@ -28,7 +58,7 @@ a {
 }
 
 a:hover {
-	color: #827D7C;
+	color: #ff0000;
 }
 
 a:visited {
@@ -40,7 +70,23 @@ a:visited {
 	display:block;
 	margin: 0 auto;
 
+
+
 }
+
+.slabo {
+  
+  font-family: 'Slabo 27px', serif;
+
+}
+
+.blog {
+
+  margin: 3em;
+  margin-right: 14em;
+  
+}
+
 #slogan {
 
 }
