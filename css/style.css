@@ -28,6 +28,17 @@ body {
 	font-family: helvetica, sans-serif;
 }
 
+nav {
+  color: #fff;
+  text-align: center;
+  font-size: 18px;
+  background-color: #000;
+  height: 2.5em;
+  
+
+
+}
+
 h1 {
     background-image: url("http://mbeero.github.io/images/mbeero.gif");
 	background-repeat: no-repeat;
@@ -97,7 +108,4 @@ a:visited {
 	
 }
 
-.oswald {
-font-family: 'Oswald', sans-serif;
 
-}
