@@ -88,14 +88,10 @@ a:hover {
 	color: #ff0000;
 }
 
-
-
 .gif {
 	
 	display:block;
 	margin: 0 auto;
-
-
 
 }
 
@@ -108,16 +104,15 @@ a:hover {
 .blog {
 
   margin: 3em;
-  margin-right: 14em;
-  
+  margin-right: 14em; 
+}
+
+.about {
+  width: 600px;
 }
 
 #slogan {
 
-}
-
-#pictures {
-	
 }
 
 .pics {
@@ -127,8 +122,6 @@ margin: 0 auto;
 }
 
 #wrapper {
-  padding: 40px;
+  padding: 40px 0 40px 40px;
 }
-
-
 
