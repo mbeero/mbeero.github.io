@@ -1,0 +1,21 @@
+body {
+	background-color: #222222;
+	font-family: Arial, sans-serif;
+}
+
+#wrapper {
+	width: 1025px;
+	margin: 30px auto;
+}
+
+.row a {
+	display: block;
+	float: left;
+	width: 200px;
+	height: 200px;
+	margin: 0 4px 4px 0;
+}
+
+.row a:hover {
+	opacity: .8;
+}

@@ -64,7 +64,6 @@ a {
 
 img {
 width: 100%;
-border: 2px solid #000000;
 }
 
 footer {
@@ -108,6 +107,8 @@ margin: 0 auto;
 
 #content {
   padding: 0 0 2em 2em;
+  background-size: 100%;
+  min-height: 500px;
 }
 
 #mobile {
@@ -165,6 +166,9 @@ nav:hover #innernav {
   margin: 0;
 }
 
+.about {
+  width: 100%;
+}
 }
 
 
